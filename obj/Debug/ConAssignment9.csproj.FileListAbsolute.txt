@@ -1,0 +1,8 @@
+D:\DotNet\Day-7\ConAssignment9\bin\Debug\ConAssignment9.exe.config
+D:\DotNet\Day-7\ConAssignment9\bin\Debug\ConAssignment9.exe
+D:\DotNet\Day-7\ConAssignment9\bin\Debug\ConAssignment9.pdb
+D:\DotNet\Day-7\ConAssignment9\obj\Debug\ConAssignment9.csproj.AssemblyReference.cache
+D:\DotNet\Day-7\ConAssignment9\obj\Debug\ConAssignment9.csproj.SuggestedBindingRedirects.cache
+D:\DotNet\Day-7\ConAssignment9\obj\Debug\ConAssignment9.csproj.CoreCompileInputs.cache
+D:\DotNet\Day-7\ConAssignment9\obj\Debug\ConAssignment9.exe
+D:\DotNet\Day-7\ConAssignment9\obj\Debug\ConAssignment9.pdb
